@@ -1,10 +1,15 @@
-### Hi there 👋, Timothy Vodegel
-#### Learning webdevelopment
+
 ![Learning webdevelopment](https://images.pexels.com/photos/5836/yellow-metal-design-decoration.jpg?auto=compress&cs=tinysrgb&h=750&w=1260)
+
+# Timothy
+## Learning webdevelopment
 
 I'm Timothy from the Netherlands, and recently I started learning webdevelopment. Through online tutorials and courses I learned HTML and CSS. 
 
-Skills: HTML / CSS
+### Skills and Experience
+
+* :red_circle: HTML 
+* :large_blue_circle: CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SCSS and Javascript 
