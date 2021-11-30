@@ -1,6 +1,3 @@
-
-![Learning webdevelopment](https://images.pexels.com/photos/5836/yellow-metal-design-decoration.jpg?auto=compress&cs=tinysrgb&h=750&w=1260)
-
 # Hi, there!
 I'm Timothy from the Netherlands, and recently I started learning webdevelopment. The combination between design(UI/UX) really interests me. To learn all these amazing things I follow online tutorials and courses. That's how I accuired knowledge about HTML and CSS. Now it's time for the next step: Javascript. 
 On here I will keep adding all the things I learned and made! 
